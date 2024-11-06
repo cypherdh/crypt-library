@@ -1,0 +1,4 @@
+getgenv().identifyexecutor = function()
+    return "Testing"
+end
+print(identifyexecutor())
